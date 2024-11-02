@@ -45,10 +45,7 @@ El archivo `datos.php` recibe los datos mediante el método POST, realiza la val
 3. Asegúrate de que todos los archivos tengan codificación **UTF-8** y usa **rutas relativas** para incluir o referenciar otros archivos.
 4. Accede al archivo `index.php` desde tu navegador utilizando la URL `http://localhost/DWES01/ejercicio2/index.php` para visualizar los datos.
 
-## Consideraciones y Evaluación
-- **Codificación**: Todos los archivos están codificados en **UTF-8**.
-- **Validaciones**: El script `datos.php` valida cada uno de los campos recibidos y muestra errores detallados si los valores no cumplen con las expectativas.
-- **Filtrado y Procesamiento de Datos**: Los archivos CSV se procesan y filtran según los criterios ingresados por el usuario en el formulario, mostrando una o más filas que cumplan con las condiciones.
+
 
 ## Autor
 - Pablo Cabello Hurtado
